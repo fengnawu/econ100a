@@ -47,8 +47,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Econ133Notes'
-copyright = u'2014, Eric M. Aldrich'
+project = u'Econ100A Notes'
+copyright = u'2018, Fengna Wu'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -180,7 +180,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Econ133Notesdoc'
+htmlhelp_basename = 'Econ100A'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -200,8 +200,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'Econ133Notes.tex', u'Econ133Notes Documentation',
-   u'Eric M. Aldrich', 'manual'),
+  ('index', 'Econ100ANotes.tex', u'Econ100ANotes Documentation',
+   u'Natalia Lazzati', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -230,8 +230,8 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'econ133notes', u'Econ133Notes Documentation',
-     [u'Eric M. Aldrich'], 1)
+    ('index', 'econ100Anotes', u'Econ100ANotes Documentation',
+     [u'Natalia Lazzati'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -244,8 +244,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Econ133Notes', u'Econ133Notes Documentation',
-   u'Eric M. Aldrich', 'Econ133Notes', 'One line description of project.',
+  ('index', 'Econ100ANotes', u'Econ100ANotes Documentation',
+   u'Natalia Lazzati', 'Econ100ANotes', 'One line description of project.',
    'Miscellaneous'),
 ]
 
